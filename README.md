@@ -1,11 +1,11 @@
 # 5 Mega Responsive Websites with HTML CSS and JavaScript
 
-:ticket: Apple eCommerce
+:ticket:  Apple eCommerce
 
-:ticket: Business Agency
+:ticket:  Business Agency
 
-:ticket: Creative Design
+:ticket:  Creative Design
 
-:ticket: Foods
+:ticket:  Foods
 
-:ticket: The Wine House
+:ticket:  The Wine House
