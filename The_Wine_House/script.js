@@ -121,3 +121,5 @@ document.querySelector(".grapes-img").addEventListener("mouseout", () => {
 menu.addEventListener("click", () => {
   document.querySelector(".navbar").classList.toggle("change");
 });
+
+//check aligment
